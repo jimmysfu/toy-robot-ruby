@@ -11,6 +11,7 @@ ruby lib\toy_robot.rb
 This will produce a command prompt into which you can enter the commands as defined in the specification.
 
 Example Input and Output:
+
 a)
 PLACE 0,0,NORTH
 MOVE
@@ -38,7 +39,7 @@ Test Data
 As required in the specification the test data is to be provided to exercise the application.
 
 `
-ruby lib\toy_robot.rb
+rake specs
 `
 
 This will produce a test coverage report.

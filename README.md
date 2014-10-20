@@ -36,7 +36,9 @@ Test Data
 ---------
 
 As required in the specification the test data is to be provided to exercise the application.
+
 `
 ruby lib\toy_robot.rb
 `
+
 This will produce a test coverage report.

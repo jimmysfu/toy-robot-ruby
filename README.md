@@ -43,3 +43,6 @@ rake specs
 `
 
 This will produce a test coverage report.
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/jimmysfu/toy-robot-ruby/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
